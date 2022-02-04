@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVTLabW03Crud", "TVTLabW03Crud\TVTLabW03Crud.csproj", "{2C37C0B9-55A4-4577-AB05-9B3A35AAD4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C37C0B9-55A4-4577-AB05-9B3A35AAD4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C37C0B9-55A4-4577-AB05-9B3A35AAD4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C37C0B9-55A4-4577-AB05-9B3A35AAD4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C37C0B9-55A4-4577-AB05-9B3A35AAD4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {510A60C4-CD2B-472F-A1E6-F53408B8F653}
+	EndGlobalSection
+EndGlobal
